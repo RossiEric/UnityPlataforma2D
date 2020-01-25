@@ -1,0 +1,49 @@
+﻿[
+	{
+		"Peter": "olá, tudo bem?"
+	},
+	{
+		"Marco": "Sempre..."
+	},
+	{
+		"Peter": "vlw! bora!"
+	},
+	{
+		"?": [
+			{
+				"1": [
+					"Qual o job?",
+					{
+						"Peter": "Por outro lado, o desafiador cenário globalizado"
+					},
+					{
+						"Marco": "A prática cotidiana prova que o consenso sobre a necessidade"
+					},
+					{
+						"Peter": "O incentivo ao avanço tecnológico!"
+					},
+					{
+						"Flag_END": "Flag_END"
+					}
+				]
+			},
+			{
+				"2": [
+					"Temos outra opção?",
+					{
+						"Peter": "Evidentemente, o desafiador cenário globalizado não pode mais"
+					},
+					{
+						"Marco": "Podemos já vislumbrar o modo pelo qual a competitividade"
+					},
+					{
+						"Peter": "As experiências acumuladas demonstram que a estrutura atual da organização"
+					},
+					{
+						"Flag_END": "Flag_END"
+					}
+				]
+			}
+		]
+	}
+]
